@@ -6,7 +6,7 @@ I am a Systems Engineering student with a deep passion for Machine Learning and 
 ## 🛠 Skills
 [![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=blue)](https://www.python.org/) 
 
-[![Pandas](https://img.shields.io/badge/-MYSQL-000?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 [![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?style=flat-square&logo=scikit-learn&logoColor=FFA500)](https://scikit-learn.org/)
 ## 🔗 Links - Let's talk?
