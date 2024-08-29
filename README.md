@@ -16,4 +16,4 @@ I am a Systems Engineering student with a deep passion for Machine Learning and 
 [![EMAIL](https://img.shields.io/badge/EMAIl-000?style=for-the-badge&logo=GMAIL&logoColor=REd)](mailto:mvb0293@gmail.com)
 # ⚡ GitHub Activity Graph
 
-[![Marcus activity](https://github-readme-activity-graph.cyclic.app/graph?username=seu_usuario&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcusVinicius029)](https://github.com/ashutosh00710/github-readme-activity-graph))
