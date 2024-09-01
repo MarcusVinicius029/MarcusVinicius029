@@ -14,6 +14,6 @@ I am a Systems Engineering student with a deep passion for Machine Learning and 
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marcusviniciusalvesbittencourt/)
 
 [![EMAIL](https://img.shields.io/badge/EMAIl-000?style=for-the-badge&logo=GMAIL&logoColor=REd)](mailto:mvb0293@gmail.com)
-# ⚡ GitHub Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcusVinicius029&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# ⭐ GitHub Stats 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcusVinicius029&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
